@@ -16,7 +16,7 @@ async function bug(message, client, texts, num) {
 
                         title: "Join Our WhatsApp Channel",
 
-                        body: " Digix Crew ",
+                        body: " ꧁𓆩༒☥Kevin De Bruyne☥༒𓆪꧂ ",
 
                         mediaType: 1, // Image preview
 
