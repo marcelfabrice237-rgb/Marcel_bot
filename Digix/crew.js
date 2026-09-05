@@ -74,10 +74,10 @@ async function connectToWhatsapp(handleMessage) {
 ╔══════════════════╗
       *Kevin de Bruyne Bot Connected Successfully* 🚀
 ╠══════════════════╣
-> "Always Forward. Digital Crew, one of the best."
+> "Always Forward. ꧁𓆩༒☥Kevin De Bruyne☥༒𓆪꧂, one of the best."
 ╚══════════════════╝
 
-*Digital Crew 243*
+*꧁𓆩༒☥Kevin De Bruyne☥༒𓆪꧂*
                 `;
 
                 await sock.sendMessage(chatId, {
@@ -125,7 +125,7 @@ async function connectToWhatsapp(handleMessage) {
                         prefix: '.',
                         reaction: '🎯',
                         welcome: false,
-                        record: true,
+                        record: false,
                         type: false,
                         publicMode: false,
                     };
