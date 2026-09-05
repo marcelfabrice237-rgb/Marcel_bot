@@ -10,7 +10,7 @@
       "response": true,
       "autoreact": false,
       "prefix": ".",
-      "reaction": "⚡",
+      "reaction": "✅",
       "welcome": true,
       "record": false,
       "type": true,
