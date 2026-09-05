@@ -85,11 +85,11 @@ export default async function info(client, message) {
 
     
 let menu = `
-DigiX Crew 🎯
+꧁𓆩༒☥Kevin De Bruyne☥༒𓆪꧂ 🎯
 ────────────
 • Prefix   : ${prefix}
 • User     : ${stylizedChar(userName)}
-• Version  : 1.0.0
+• Version  : 1.1.0
 • Uptime   : ${uptime}
 • RAM      : ${usedRam}/${totalRam} MB
 • Platform : ${platform}
