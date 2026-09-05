@@ -12,7 +12,7 @@
       "prefix": ".",
       "reaction": "⚡",
       "welcome": true,
-      "record": true,
+      "record": false,
       "type": true,
       "publicMode": false
     }
